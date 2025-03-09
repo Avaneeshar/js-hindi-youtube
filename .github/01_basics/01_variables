@@ -1,0 +1,5 @@
+const accointID=[21202]
+let emailid ="aku@gmail.com"
+var password= "Sadanand@1"
+accountcity ="Kerala"
+console.log(accountID);
